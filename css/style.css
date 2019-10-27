@@ -1,5 +1,6 @@
 body {
     background-color: #f3d6db;
+    text-align: center;
 }
 
 div {
@@ -14,6 +15,7 @@ div {
 #map {
     width: 100vw;
     height: 400px;
+    padding-top: 50px;
 }
 
 .illustration {
@@ -25,8 +27,17 @@ div {
     padding-top: 7%;
 }
 
+.contents2 {
+    text-align: center;
+    padding-top: 7%;
+}
+
+.contents3 {
+    width: 700px;
+}
+
 img {
-    width: 100vw;
-    max-width: 500px;
+    width: 100%;
+    max-width: 800px;
     background-size: cover;
 }
