@@ -1,9 +1,32 @@
+body {
+    background-color: #f3d6db;
+}
+
+div {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.poem {
+    padding-top: 5%;
+    text-align: center;
+}
+
 #map {
-    width: 500px;
+    width: 100vw;
     height: 400px;
 }
 
+.illustration {
+    text-align: center;
+}
+
+.contents {
+    text-align: center;
+    padding-top: 10%;
+}
+
 img {
-    width: 500px;
-    height: 800px;
+    width: 100vw;
+    max-width: 500px;
+    background-size: cover;
 }
