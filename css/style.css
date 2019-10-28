@@ -6,6 +6,7 @@ body {
 .poem {
     padding-top: 5%;
     text-align: center;
+    line-height: 30px;
 }
 
 #map {
@@ -19,22 +20,26 @@ body {
 }
 
 .people {
+    font-size: 15pt;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 200px;
 }
 
 .invitation {
+    font-size: 12pt;
+    line-height: 40px;
     text-align: center;
     width: 100%;
     padding-top: 50px;
 }
 
 .location {
-    padding-top: 50px;
+    padding-top: 200px;
     width: 100%;
 }
 
 .notice {
+    font-size: 10pt;
     text-align: left;
     padding-top: 50px;
     width: 100%;
