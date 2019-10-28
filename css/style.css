@@ -2,6 +2,7 @@ body {
     margin: 0;
     background-color: #f3d6db;
     text-align: center;
+    word-break: keep-all;
 }
 
 div {
