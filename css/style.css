@@ -42,15 +42,20 @@ div {
 
 .location {
     padding-top: 200px;
+    line-height: 40px;
     font-size: 10pt;
     width: 100%;
 }
 
 .notice {
     font-size: 10pt;
-    text-align: left;
-    padding-top: 50px;
-    width: 100%;
+    text-align: center;
+    line-height: 30px;
+    padding-top: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    width: 100% - 40px;
 }
 
 @media screen and (max-width : 1400px) { 
