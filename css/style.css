@@ -23,6 +23,12 @@ div {
     padding-top: 50px;
 }
 
+.map_image {
+    width: 100%;
+    max-width: 700px;
+    height: 400px;
+}
+
 .illustration {
     text-align: center;
 }
